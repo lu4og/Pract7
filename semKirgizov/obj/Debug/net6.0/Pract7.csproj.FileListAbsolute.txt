@@ -1,0 +1,15 @@
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\bin\Debug\net6.0\Pract7.exe
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\bin\Debug\net6.0\Pract7.deps.json
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\bin\Debug\net6.0\Pract7.runtimeconfig.json
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\bin\Debug\net6.0\Pract7.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\bin\Debug\net6.0\Pract7.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.csproj.AssemblyReference.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.AssemblyInfoInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.AssemblyInfo.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.csproj.CoreCompileInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\refint\Pract7.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\Pract7.genruntimeconfig.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\kirgiz7pract-master\semKirgizov\obj\Debug\net6.0\ref\Pract7.dll
